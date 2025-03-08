@@ -1,11 +1,10 @@
 **Overview**
 This Power BI Sales Analysis Dashboard provides interactive visualizations and data-driven insights to help businesses optimize sales, profitability, and customer behavior. The dashboard enables decision-makers to:
-
-✅ Track key sales metrics (Revenue, Profit, Orders, Quantity)
-✅ Analyze product performance by sub-category
-✅ Understand customer payment preferences
-✅ Identify seasonal trends & state-wise profitability
-✅ Improve business strategy with actionable insights
+                                                                                                                                                                                           ✅ Track key sales metrics (Revenue, Profit, Orders, Quantity).                                                                                                                         
+✅ Analyze product performance by sub-category.                           
+✅ Understand customer payment preferences.
+✅ Identify seasonal trends & state-wise profitability.
+✅ Improve business strategy with actionable insights.
 
  **Actionable Insights & Recommendations**
  
