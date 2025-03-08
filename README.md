@@ -8,6 +8,7 @@ This Power BI Sales Analysis Dashboard provides interactive visualizations and d
 ✅ Improve business strategy with actionable insights
 
  **Actionable Insights & Recommendations**
+ 
 1️⃣ Boost Sales During Low Performing Months
 ✅ Insight: Sales dip significantly in July & August (~₹24K).
 📌 Recommendation:
