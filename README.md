@@ -1,6 +1,7 @@
 **Overview:**                                                                                                                                                                   
 This Power BI Sales Analysis Dashboard provides interactive visualizations and data-driven insights to help businesses optimize sales, profitability, and customer behavior. The dashboard enables decision-makers to:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-✅ Track key sales metrics (Revenue, Profit, Orders, Quantity).                                                                                                                         ✅ Analyze product performance by sub-category.                                                                                                                           
+✅ Track key sales metrics (Revenue, Profit, Orders, Quantity).          
+✅ Analyze product performance by sub-category.                                                                                                                           
 ✅ Understand customer payment preferences.                                                                                                                                            
 ✅ Identify seasonal trends & state-wise profitability.                                                                                                                                  
 ✅ Improve business strategy with actionable insights.                                                                                                                                                                                                                                                                                                                                                                                                          
@@ -20,7 +21,9 @@ Investigate whether pricing, demand, or stock issues are causing low sales.
 Consider discounting, bundling with high-demand products, or phasing out low sellers.                                                                                                    
 
 3️⃣ Improve Profitability in High-Revenue States                                                                                                                                        
-✅ Insight: Some states(Andhra Pradesh,Rajasthan, Maharasthra) generate high sales but have low profit margins.                                                                         📌 Recommendation:                                                                                                                                                                    
+✅ Insight: Some states(Andhra Pradesh,Rajasthan, Maharasthra) generate high sales but have low profit margins.     
+
+📌 Recommendation:                                                                                                                                                                    
 Analyze cost inefficiencies (logistics, supplier pricing, taxes) in these states.                                                                                                        
 Adjust regional pricing strategies to increase profit margins.                                                                                                                                  
 
